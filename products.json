@@ -19,8 +19,8 @@
       "price": 11.95,
       "description": "Take your look to the next level with this amazing & dill-icious lip balm",
       "features": [
-        "dill-icious"
-        "beautiful green colour",
+        "dill-icious",
+        "beautiful green colour"
       ],
       "image": "dill-pickle-lip-balm.jpg"
     },
@@ -30,7 +30,7 @@
       "description": "Learn intrepetive dance with your feline friend!",
       "features": [
         "all the latest dance moves",
-        "truly bond with your cat through dance",
+        "truly bond with your cat through dance"
       ],
       "image": "dancing-with-cats.jpg"
     }
